@@ -41,6 +41,8 @@ pub const TABLE: &[(&str, Class)] = &[
     ("constraints", Class::Layer(2)),
     ("fonts", Class::Layer(2)),
     ("render", Class::Layer(2)),
+    // Free Elétrica: projeto elétrico (NBR 5410) sobre `doc`; o motor (L4) registra os comandos.
+    ("free-eletrica", Class::Layer(2)),
     ("io", Class::Layer(3)),
     ("engine", Class::Layer(4)),
     ("ui-egui", Class::Layer(5)),

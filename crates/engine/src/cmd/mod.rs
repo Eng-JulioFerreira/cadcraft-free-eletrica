@@ -12,6 +12,8 @@ mod draw;
 mod draw2;
 mod draworder;
 mod edit;
+/// Free Elétrica: Criar circuito e Comandos e luminárias.
+mod eletrica;
 mod exchange;
 pub mod file;
 mod gripcmds;
@@ -202,6 +204,7 @@ pub fn command_specs() -> &'static [CommandSpec] {
         v.extend(tolerance::specs());
         v.extend(constraints::specs());
         v.extend(lisp::specs());
+        v.extend(eletrica::specs());
         v
     })
 }

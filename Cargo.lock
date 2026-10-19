@@ -635,6 +635,7 @@ dependencies = [
  "cadcraft-io",
  "cadcraft-render",
  "craft-docpath",
+ "free-eletrica",
  "log",
  "rstar",
  "serde",
@@ -717,6 +718,7 @@ dependencies = [
  "egui",
  "egui-wgpu",
  "egui_kittest",
+ "free-eletrica",
  "image",
  "log",
  "naga",
@@ -1468,6 +1470,16 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "cb4cb245038516f5f85277875cdaa4f7d2c9a0fa0468de06ed190163b1581fcf"
 dependencies = [
  "percent-encoding",
+]
+
+[[package]]
+name = "free-eletrica"
+version = "0.9.0"
+dependencies = [
+ "cadcraft-doc",
+ "cadcraft-geom",
+ "serde",
+ "serde_json",
 ]
 
 [[package]]

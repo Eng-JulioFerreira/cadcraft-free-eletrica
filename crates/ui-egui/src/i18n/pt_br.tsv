@@ -1244,3 +1244,26 @@
 	Query Texts	Consultar textos
 	Run Script...	Executar script...
 	Not a number or distance: {text}	Não é um número nem uma distância: {text}
+	Electrical	Elétrica
+	Electrical Circuit	Criar circuito
+	Switches and Lamps	Comandos e luminárias
+	Adjust Wiring	Ajustar fiação
+	Electrical Analysis	Análise elétrica
+	Wiring Summary	Resumo da fiação
+	Override Circuit	Sobrescrever circuito
+	Electrical Settings	Configurações elétricas
+	Board Settings	Configurar quadro
+	Load Schedule	Quadro de cargas
+	New Circuit	Novo circuito
+	Describe Circuit	Descrever circuito
+	Delete Circuit	Excluir circuito
+	Merge Circuits	Juntar circuitos
+	Circuit Target	Circuito de destino
+	Circuit Properties	Propriedades do circuito
+	Demand Tables	Tabelas de demanda
+	Insert Conduit	Inserir eletroduto
+	Insert Electrical Point	Inserir ponto elétrico
+	Electrical Point Blocks	Blocos de pontos elétricos
+	Point Template	Modelo de ponto
+	Delete Electrical Points	Excluir pontos elétricos
+	Free Elétrica, based on CADCraft by the ArtCraft team.	Free Elétrica, baseado no CADCraft da equipe ArtCraft.

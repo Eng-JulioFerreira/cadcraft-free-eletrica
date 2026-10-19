@@ -16,6 +16,8 @@ cadcraft-dxf = { workspace = true }
 cadcraft-constraints = { workspace = true }
 cadcraft-fonts = { workspace = true }
 cadcraft-render = { workspace = true }
+# Free Elétrica: pontos, circuitos e escritas do projeto elétrico (ELECIRCUITO, ELECOMANDO).
+free-eletrica = { workspace = true }
 craft-docpath = { workspace = true }
 serde = { workspace = true }
 serde_json = { workspace = true }

@@ -1330,3 +1330,26 @@
 	Justify	За шириною
 	Text color	Колір тексту
 	Click the ruler to add a tab stop, right-click to remove one	Натисніть на лінійку, щоб додати табуляцію; права кнопка видаляє її
+	Electrical	Електрика
+	Electrical Circuit	Електричне коло
+	Switches and Lamps	Вимикачі та світильники
+	Adjust Wiring	Налаштувати проводку
+	Electrical Analysis	Електричний аналіз
+	Wiring Summary	Зведення проводки
+	Override Circuit	Перевизначити коло
+	Electrical Settings	Електричні налаштування
+	Board Settings	Налаштування щита
+	Load Schedule	Таблиця навантажень
+	New Circuit	Нове коло
+	Describe Circuit	Описати коло
+	Delete Circuit	Видалити коло
+	Merge Circuits	Об'єднати кола
+	Circuit Target	Цільове коло
+	Circuit Properties	Властивості кола
+	Demand Tables	Таблиці попиту
+	Insert Conduit	Вставити кабелепровід
+	Insert Electrical Point	Вставити електричну точку
+	Electrical Point Blocks	Блоки електричних точок
+	Point Template	Шаблон точки
+	Delete Electrical Points	Видалити електричні точки
+	Free Elétrica, based on CADCraft by the ArtCraft team.	Free Elétrica на основі CADCraft від команди ArtCraft.
